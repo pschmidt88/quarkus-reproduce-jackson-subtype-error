@@ -1,0 +1,8 @@
+greeting:
+  message: "hello"
+
+quarkus:
+  mongodb:
+    devservices:
+      properties:
+        uuidRepresentation: STANDARD
